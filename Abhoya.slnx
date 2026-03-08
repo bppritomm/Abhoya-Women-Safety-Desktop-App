@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Abhoya/Abhoya.csproj">
+    <BuildType Project="Release" />
+  </Project>
+</Solution>
