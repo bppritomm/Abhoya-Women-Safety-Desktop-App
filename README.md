@@ -35,6 +35,11 @@ Hit Start (or F5) to run the application.
 
 📸 Screenshots
 <img width="1273" height="718" alt="image" src="https://github.com/user-attachments/assets/66d8658b-b0f6-41b9-9d2a-b8b7aed3bea8" />
+Public Login:
+<img width="1268" height="730" alt="Screenshot 2026-03-09 070510" src="https://github.com/user-attachments/assets/bbdbedde-62fe-45d7-b639-d99d2ace388d" />
+Admin Login:
+<img width="1267" height="707" alt="Screenshot 2026-03-09 070648" src="https://github.com/user-attachments/assets/9ef6d664-d138-4618-9071-dd30334741eb" />
+
 
 
 👨‍💻 Developed By
@@ -53,4 +58,3 @@ https://www.facebook.com/bppritomm
 
 
 
-Open the Abhoya.sln file in Visual Studio.Go to Tools > NuGet Package Manager and ensure System.Data.SQLite is installed.Hit Start (or F5) to run the application.📸 Screenshots👨‍💻 Developed By$$Pritom Halder$$LinkedIn:$$https://www.linkedin.com/in/pritomhalder/$$Facebook:$$https://www.facebook.com/bppritomm$$"Building technology to make the world a safer place."
